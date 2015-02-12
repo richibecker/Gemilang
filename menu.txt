@@ -1,0 +1,42 @@
+1. LG
+   A. Tv
+   B. Kulkas
+   C. Ac
+   D. Mesin cuci
+   E. Audio
+
+2. GEA
+   A. Display cooler
+   B. Freezer
+   C. Dispenser
+
+3. GETRA
+   A. Food & cooking equipment
+   B. Fruit & vegetable equipment
+   C. Bakery & noodle equipment
+   D. Kitchen accessory
+
+4. Polytron
+   A. Tv
+   B. Big band
+   C. Kulkas
+   D. Mesin cuci
+
+5. Sharp
+   A. Tv
+   B. Kulkas
+   C. Ac
+   D. Mesin cuci
+   E. Cash register
+
+6. Contact us
+   A. Jakarta
+   B. Bekasi
+   C. Tangerang
+   D. Jogja
+   E. Purwokerto
+   F. Kediri
+   G. Denpasar
+
+Kurang lebih begini jus nanti kalo ada tambahan diinfo lagi 
+Terima kasih
